@@ -1,6 +1,6 @@
 # The New Programmer's Travel Guide
 
-An MIT undergrad's compilation of useful CS resources.
+A minimal, curated guide to relevant resources for the new computer science student.
 
 ## Using this guide
 
