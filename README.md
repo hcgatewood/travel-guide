@@ -62,13 +62,6 @@ An MIT undergrad's compilation of useful CS resources.
 - [Intro to gdb](https://www.youtube.com/watch?v=sCtY--xRUyI)
 - [Overview of Chrome DevTools, including debugger](https://developer.chrome.com/devtools)
 
-### Communicating
-
-- [Best practices for competent public speaking](https://www.gsb.stanford.edu/insights/big-data-approach-public-speaking)
-- [Best practices for group ideation](https://challenges.openideo.com/blog/seven-tips-on-better-brainstorming)
-- [Accepting criticism](https://medium.com/the-year-of-the-looking-glass/taking-feedback-impersonally-7c0f3a8199d9)
-- [Writing a README, with examples](https://github.com/matiassingers/awesome-readme)
-
 ### Getting a job
 
 - [Overview of the process, best practices](https://github.com/gu-app-club/lets-learn-jobs)
@@ -77,6 +70,13 @@ An MIT undergrad's compilation of useful CS resources.
 - [General resume tips](https://www.quora.com/What-are-some-examples-of-a-computer-science-students-resume-that-received-an-internship-at-Google)
 - [Great site for technical interview practice](https://www.interviewcake.com)
 - [Big list of CS companies with an easy application process](https://github.com/j-delaney/easy-application)
+
+### Communicating
+
+- [Best practices for competent public speaking](https://www.gsb.stanford.edu/insights/big-data-approach-public-speaking)
+- [Best practices for group ideation](https://challenges.openideo.com/blog/seven-tips-on-better-brainstorming)
+- [Accepting criticism](https://medium.com/the-year-of-the-looking-glass/taking-feedback-impersonally-7c0f3a8199d9)
+- [Writing a README, with examples](https://github.com/matiassingers/awesome-readme)
 
 ### Web development
 
