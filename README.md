@@ -27,7 +27,7 @@ A minimal, curated guide to relevant resources for the new computer science stud
 
 ### Sublime Text
 
-- Install: `brew cask install sublime`
+- Install: `brew cask install sublime-text`
 - [Setting indentation and tabstop](https://www.sublimetext.com/docs/2/indentation.html)
 - [Setting rulers](http://stackoverflow.com/questions/9910143/how-to-make-ruler-always-be-shown-in-sublime-text-2)
 
@@ -44,20 +44,27 @@ A minimal, curated guide to relevant resources for the new computer science stud
 ### Git
 
 - Install: `brew install git`
-- [Intro](https://backlogtool.com/git-guide/en/intro/intro1_1.html)
-- [Another intro](http://rogerdudler.github.io/git-guide/)
+- [Conceptual intro](https://backlogtool.com/git-guide/en/intro/intro1_1.html)
+- [Functional intro](http://rogerdudler.github.io/git-guide/)
 - [Interactive tutorial](https://try.github.io/)
-- [Overview](https://learnxinyminutes.com/docs/git/)
+- [Cheatsheet](https://learnxinyminutes.com/docs/git/)
 - [Documentation](https://git-scm.com/documentation)
 - [Git is not GitHub](http://stackoverflow.com/questions/13321556/difference-between-git-and-github)
 - [Effective commit messages](http://chris.beams.io/posts/git-commit/)
+
+### Python
+
+- Install: `brew install python3`
+- [Official tutorial](https://docs.python.org/3/tutorial/index.html)
+- [Another tutorial](https://www.learnpython.org)
+- [Intro to programming](https://www.youtube.com/playlist?list=PLUl4u3cNGP63WbdFxL8giv4yhgdMGaZNA)
 
 ### Debugging
 
 - [Avoid bugs](http://web.mit.edu/6.005/www/fa16/classes/08-avoiding-debugging/)
 - [General strategy](http://web.mit.edu/6.005/www/fa16/classes/10-debugging/)
 - [Python debugging tips](http://stackoverflow.com/questions/1623039/python-debugging-tips)
-- [Python builtin debugger](https://docs.python.org/3/library/pdb.html)
+- [Pdb, the Python builtin debugger](https://docs.python.org/3/library/pdb.html)
 - [Gdb, a debugger for many compiled languages](https://www.gnu.org/software/gdb/)
 - [Intro to gdb](https://www.youtube.com/watch?v=sCtY--xRUyI)
 - [Overview of Chrome DevTools, including debugger](https://developer.chrome.com/devtools)
@@ -70,6 +77,7 @@ A minimal, curated guide to relevant resources for the new computer science stud
 - [General resume tips](https://www.quora.com/What-are-some-examples-of-a-computer-science-students-resume-that-received-an-internship-at-Google)
 - [Great site for technical interview practice](https://www.interviewcake.com)
 - [Big list of CS companies with an easy application process](https://github.com/j-delaney/easy-application)
+- [Intro to algorithms](https://www.youtube.com/playlist?list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb)
 
 ### Communicating
 
@@ -80,25 +88,30 @@ A minimal, curated guide to relevant resources for the new computer science stud
 
 ### Web development
 
+- [What is a web app](https://www.youtube.com/watch?v=RsQ1tFLwldY)
 - [Web developer roadmap](https://github.com/kamranahmedse/developer-roadmap)
 - [Dash, an on-command documentation reader for Macs](https://kapeli.com/dash)
 - [Sample real-world apps in various stacks](https://github.com/gothinkster/realworld)
 - [Disable browser caching](http://stackoverflow.com/questions/5690269/disabling-chrome-cache-for-website-development)
+- [HTTP and HTTPS](https://www.youtube.com/watch?v=po3zYOe00O4)
+- [API's](https://www.youtube.com/watch?v=7YcW25PHnAA)
+- [REST API's](https://www.youtube.com/watch?v=YCcAE2SCQ6k)
+- [TCP/IP](https://www.youtube.com/watch?v=PpsEaqJV_A0)
+- [IPv4 vs. IPv6](https://www.youtube.com/watch?v=aor29pGhlFE)
 
 ### HTML/CSS
 
-- [Intro](http://www.htmlgoodies.com/primers/html/article.php/3478141)
-- [Overview](https://internetingishard.com/html-and-css/)
-- [Multi-page tutorial](http://www.w3schools.com/html/default.asp)
-- [Using divs](http://www.html-5-tutorial.com/div-tag.htm)
-- [Centering things](https://css-tricks.com/centering-css-complete-guide/)
+- [Intro and overview](https://internetingishard.com/html-and-css/)
 - [How layout works](http://learnlayout.com)
-- [Embedded JavaScript (ejs)](http://www.embeddedjs.com)
-- [Handlebars (hbs)](http://handlebarsjs.com)
+- [HTML in-depth](http://www.w3schools.com/html/default.asp)
+- [Centering things](https://css-tricks.com/centering-css-complete-guide/)
+- [Bootstrap, a popular framework making HTML/CSS easier](http://getbootstrap.com)
 
 ### JavaScript
 
-- [Good JavaScript book](http://bdcampbell.net/javascript/book/javascript_the_good_parts.pdf)
+- [Intro book](http://bdcampbell.net/javascript/book/javascript_the_good_parts.pdf)
+- [Interactive intro](http://eloquentjavascript.net)
+- [Hub for tutorials, tools, references](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 - [How the var keyword works](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/var)
 - [Promises](http://exploringjs.com/es6/ch_promises.html)
 - [Style guide](https://github.com/airbnb/javascript#whitespace)
@@ -106,11 +119,12 @@ A minimal, curated guide to relevant resources for the new computer science stud
 ### Vim
 
 - Install: `brew install vim`
-- [Interactive tutorial](http://www.openvim.com)
+- Official tutorial: `vimtutor`
+- [Online tutorial](http://www.openvim.com)
 - [Cheatsheet](https://learnxinyminutes.com/docs/vim/)
 - [Sensible start to a vimrc](https://github.com/tpope/vim-sensible)
 - [Tips](http://vim.wikia.com/wiki/Category:Getting_started)
-- [Good advice on settings](http://nvie.com/posts/how-i-boosted-my-vim/)
+- [Advice on settings](http://nvie.com/posts/how-i-boosted-my-vim/)
 - [Advice on making a vimrc](http://dougblack.io/words/a-good-vimrc.html)
 - [Vimrc with more features](https://github.com/amix/vimrc)
 - [Intermediate topics](https://www.cs.oberlin.edu/~kuperman/help/vim/home.html)
@@ -137,7 +151,7 @@ A minimal, curated guide to relevant resources for the new computer science stud
 
 ### Blockchain
 
-- [Intro](https://www.youtube.com/watch?v=_160oMzblY8)
+- [Intro video](https://www.youtube.com/watch?v=_160oMzblY8)
 - [Intro to bitcoin](https://www.youtube.com/watch?v=Lx9zgZCMqXE)
 - [Bitcoin vs. Ethereum](https://www.youtube.com/watch?v=-SMliFtoPn8)
 - [Intro to Ethereum](https://www.youtube.com/watch?v=66SaEDzlmP4)
@@ -154,8 +168,6 @@ A minimal, curated guide to relevant resources for the new computer science stud
 ### Future topics
 
 - Profiling, including flame graph
-- Add more JavaScript resources, e.g. intro, TypeScript
-- Python
 - Git workflows
 - Node/npm
 
