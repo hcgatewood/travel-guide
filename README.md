@@ -176,7 +176,7 @@ A minimal, curated guide to relevant resources for the new computer science stud
 ### Blockchain
 
 - [Intro video](https://www.youtube.com/watch?v=_160oMzblY8)
-- [Intro to bitcoin](https://www.youtube.com/watch?v=Lx9zgZCMqXE)
+- [Intro to Bitcoin](https://www.youtube.com/watch?v=Lx9zgZCMqXE)
 - [Bitcoin vs. Ethereum](https://www.youtube.com/watch?v=-SMliFtoPn8)
 - [Intro to Ethereum](https://www.youtube.com/watch?v=66SaEDzlmP4)
 - [What Ethereum can be](https://steemit.com/ethereum/@hexayurt/what-does-ether-usd100-mean)
