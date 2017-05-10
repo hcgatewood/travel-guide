@@ -7,7 +7,7 @@ A minimal, curated guide to relevant resources for the new computer science stud
 - Go in order, more or less
 - Snippets like `bash --version` are meant to be run from the command line
 - This guide assumes you are using a Mac, though it's still valuable on any machine
-- Make sure to install [Homebrew](http://brew.sh)
+- Make sure to install [Homebrew](http://brew.sh) and [Homebrew Cask](https://caskroom.github.io)
 - These topics and resources are my subjective view of what has been helpful
 
 ## Topics to visit
