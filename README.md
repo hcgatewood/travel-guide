@@ -51,6 +51,7 @@ A minimal, curated guide to relevant resources for the new computer science stud
 - [Documentation](https://git-scm.com/documentation)
 - [Git is not GitHub](http://stackoverflow.com/questions/13321556/difference-between-git-and-github)
 - [Effective commit messages](http://chris.beams.io/posts/git-commit/)
+- [GitHub Flow, a popular git workflow](https://guides.github.com/introduction/flow/)
 
 ### Python
 
@@ -94,14 +95,15 @@ A minimal, curated guide to relevant resources for the new computer science stud
 - [Sample real-world apps in various stacks](https://github.com/gothinkster/realworld)
 - [Disable browser caching](http://stackoverflow.com/questions/5690269/disabling-chrome-cache-for-website-development)
 - [HTTP and HTTPS](https://www.youtube.com/watch?v=po3zYOe00O4)
-- [API's](https://www.youtube.com/watch?v=7YcW25PHnAA)
-- [REST API's](https://www.youtube.com/watch?v=YCcAE2SCQ6k)
+- [APIs](https://www.youtube.com/watch?v=7YcW25PHnAA)
+- [REST APIs](https://www.youtube.com/watch?v=YCcAE2SCQ6k)
 - [TCP/IP](https://www.youtube.com/watch?v=PpsEaqJV_A0)
 - [IPv4 vs. IPv6](https://www.youtube.com/watch?v=aor29pGhlFE)
 
 ### HTML/CSS
 
 - [Intro and overview](https://internetingishard.com/html-and-css/)
+- [Hello-world HTML/CSS app](https://www.youtube.com/watch?v=wrdR5Su_Stg)
 - [How layout works](http://learnlayout.com)
 - [HTML in-depth](http://www.w3schools.com/html/default.asp)
 - [Centering things](https://css-tricks.com/centering-css-complete-guide/)
@@ -109,12 +111,22 @@ A minimal, curated guide to relevant resources for the new computer science stud
 
 ### JavaScript
 
+- [Intro](http://jsforcats.com)
 - [Intro book](http://bdcampbell.net/javascript/book/javascript_the_good_parts.pdf)
 - [Interactive intro](http://eloquentjavascript.net)
 - [Hub for tutorials, tools, references](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 - [How the var keyword works](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/var)
 - [Promises](http://exploringjs.com/es6/ch_promises.html)
 - [Style guide](https://github.com/airbnb/javascript#whitespace)
+
+### Node.js
+
+- [Download](https://nodejs.org/en/)
+- [Intro video](https://www.youtube.com/watch?v=pU9Q6oiQNd0)
+- [Overview](https://github.com/maxogden/art-of-node#the-art-of-node)
+- [Npm, the Node Package Manager](https://docs.npmjs.com/getting-started/what-is-npm)
+- [Interactive tutorial](https://github.com/workshopper/learnyounode#learn-you-the-nodejs-for-much-win)
+- [In-depth tutorial](https://www.tutorialspoint.com/nodejs/nodejs_introduction.htm)
 
 ### Vim
 
@@ -129,6 +141,15 @@ A minimal, curated guide to relevant resources for the new computer science stud
 - [Vimrc with more features](https://github.com/amix/vimrc)
 - [Intermediate topics](https://www.cs.oberlin.edu/~kuperman/help/vim/home.html)
 - [Screencasts on various topics](http://vimcasts.org/categories/)
+
+### Profiling
+
+- [Wikipedia intro](https://en.wikipedia.org/wiki/Profiling_(computer_programming))
+- [Chrome DevTools JavaScript profiler](https://developers.google.com/web/tools/chrome-devtools/rendering-tools/js-execution)
+- [Flame graph](http://www.brendangregg.com/FlameGraphs/cpuflamegraphs.html)
+- [Perf, a Linux profiling tool](https://perf.wiki.kernel.org/index.php/Tutorial#Sampling_with_perf_record)
+- [Cachegrind, a cache and branch-prediction profiler](http://valgrind.org/docs/manual/cg-manual.html)
+- [In-depth lectures on performance engineering](https://www.youtube.com/playlist?list=PLD2AE32F507F10481)
 
 ### Tmux
 
@@ -161,15 +182,10 @@ A minimal, curated guide to relevant resources for the new computer science stud
 
 - [Floating point representations](http://www.toves.org/books/float/)
 - [Interpreted vs. compiled](http://stackoverflow.com/questions/3265357/compiled-vs-interpreted-languages)
+- [C macros](https://gcc.gnu.org/onlinedocs/cpp/Macros.html)
 - [Serverless architecture](https://martinfowler.com/articles/serverless.html)
 
 ## Marginalia
-
-### Future topics
-
-- Profiling, including flame graph
-- Git workflows
-- Node/npm
 
 ### Contributing
 
