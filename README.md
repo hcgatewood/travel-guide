@@ -29,6 +29,8 @@ A minimal, curated guide to relevant resources for the new computer science stud
 
 - Install: `brew cask install sublime-text`
 - [What is a text editor](https://en.wikipedia.org/wiki/Text_editor)
+- [Setup, packages, settings](https://www.youtube.com/watch?v=zVLJfrIwEP8)
+- [Tutorial](https://www.youtube.com/playlist?list=PLpcSpRrAaOaqQMDlCzE_Y6IUUzaSfYocK)
 - [Setting indentation and tabstop](https://www.sublimetext.com/docs/2/indentation.html)
 - [Setting rulers](http://stackoverflow.com/questions/9910143/how-to-make-ruler-always-be-shown-in-sublime-text-2)
 
