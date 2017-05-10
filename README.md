@@ -34,6 +34,8 @@ A minimal, curated guide to relevant resources for the new computer science stud
 
 ### Shell (bash)
 
+- [Intro video 1](https://www.youtube.com/watch?v=x73WTEltyHU)
+- [Intro video 2](https://www.youtube.com/watch?v=q7-aEspwwEI)
 - [Basic commands](http://www.tldp.org/LDP/abs/html/basic.html)
 - [Interactive tutorial](https://www.codecademy.com/learn/learn-the-command-line)
 - [Reference manual](http://www.faqs.org/docs/bashman/bashref.html#SEC_Top)
