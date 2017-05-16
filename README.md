@@ -2,16 +2,9 @@
 
 A minimal, curated guide to relevant resources for the new computer science student.
 
-## Back cover instructions
+This guide assumes you're on a Mac, but is valuable on any machine. See the [back flap notes](#back-flap-notes) for an overview of this guide.
 
-- Go in order, more or less
-- Snippets like `bash --version` are meant to be run from the command line
-- This guide assumes you are using a Mac, though it's still valuable on any machine
-- Be sure to install [Homebrew](http://brew.sh) and [Homebrew Cask](https://caskroom.github.io)
-- All [MIT OCW](https://ocw.mit.edu/index.htm) courses also host their [videos on YouTube](https://www.youtube.com/user/MIT), where you can watch at up to 2x speed
-- These topics and resources are a subjective view of what has been helpful. Feel free to contribute!
-
-## Front flap map
+## Front flap topic map
 
 ### First steps
 
@@ -284,7 +277,15 @@ Miscellaneous resources. Topics include technical discussions, how to use macros
 - [C macros](https://gcc.gnu.org/onlinedocs/cpp/Macros.html)
 - [Serverless architecture](https://martinfowler.com/articles/serverless.html)
 
-## Marginalia
+## Back flap notes
+
+### Using this guide
+
+- Go in order, more or less
+- Snippets like `bash --version` are meant to be run from the command line
+- Be sure to install [Homebrew](http://brew.sh) and [Homebrew Cask](https://caskroom.github.io)
+- All [MIT OCW](https://ocw.mit.edu/index.htm) courses also host their [videos on YouTube](https://www.youtube.com/user/MIT), where you can watch at up to 2x speed
+- These topics and resources are a subjective view of what has been helpful. Feel free to contribute!
 
 ### Contributing
 
