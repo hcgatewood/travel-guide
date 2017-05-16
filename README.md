@@ -55,6 +55,7 @@ A healthy mentality makes everything easier. Topics include learning to ask effe
 
 Homebrew is a popular [package manager](https://en.wikipedia.org/wiki/Package_manager) for the Mac operating system. It makes installing things as easy as `brew install <package>`. Similarly, Homebrew Cask facilitates installing GUI applications.
 
+- [Intro video](https://www.youtube.com/watch?v=TyDqlbXRU5g)
 - [Install Homebrew](http://brew.sh)
 - [Install Homebrew Cask](https://caskroom.github.io)
 
@@ -188,7 +189,7 @@ Design, development, research, and everything in between rely on effective commu
 
 [Node.js](https://en.wikipedia.org/wiki/Node.js) is a [cross-platform](https://en.wikipedia.org/wiki/Cross-platform) JavaScript [run-time environment](https://en.wikipedia.org/wiki/Runtime_system). In other words, while JavaScript was traditionally limited to the client-side browser, Node.js provides an environment allowing execution of JavaScript code on the [server-side](https://en.wikipedia.org/wiki/Server-side). [Npm](https://en.wikipedia.org/wiki/Npm_(software)) is the default [package manager](https://en.wikipedia.org/wiki/Package_manager) for Node.js.
 
-- [Download](https://nodejs.org/en/)
+- Install: `brew install node`
 - [Intro video](https://www.youtube.com/watch?v=pU9Q6oiQNd0)
 - [Overview](https://github.com/maxogden/art-of-node#the-art-of-node)
 - [Npm, the Node Package Manager](https://docs.npmjs.com/getting-started/what-is-npm)
