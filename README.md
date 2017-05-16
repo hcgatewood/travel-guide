@@ -2,9 +2,9 @@
 
 A minimal, curated guide to relevant resources for the new computer science student.
 
-This guide assumes you're on a Mac, but is valuable on any machine. See the [back flap notes](#back-flap-notes) for an overview of this guide.
+This guide assumes you're on a Mac, but is valuable on any machine. See the [back flap notes](#using-this-guide) for an overview of this guide.
 
-## Front flap topic map
+## 🗺️ Front flap topic map
 
 ### First steps
 
@@ -36,7 +36,7 @@ This guide assumes you're on a Mac, but is valuable on any machine. See the [bac
 - [Miscellanea](#miscellanea)
 
 
-## Topic itinerary
+## 🏖️ Topic itinerary
 
 ### Getting started
 
@@ -278,7 +278,7 @@ Miscellaneous resources. Topics include technical discussions, how to use macros
 - [C macros](https://gcc.gnu.org/onlinedocs/cpp/Macros.html)
 - [Serverless architecture](https://martinfowler.com/articles/serverless.html)
 
-## Back flap notes
+## 🏕️ Back flap notes
 
 ### Using this guide
 
