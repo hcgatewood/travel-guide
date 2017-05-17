@@ -36,7 +36,7 @@ This guide assumes you're on a Mac, but is valuable on any machine. See the [bac
 - [Miscellanea](#miscellanea)
 
 
-## 🏖️ Topic itinerary
+## 🏖️ Topical itinerary
 
 ### Getting started
 
