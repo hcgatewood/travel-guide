@@ -24,12 +24,15 @@ This guide assumes you're on a Mac, but is valuable on any machine. See the [bac
 - [HTML/CSS](#htmlcss)
 - [JavaScript](#javascript)
 - [Node.js](#nodejs)
+- [Markdown](#markdown)
 - [Profiling](#profiling)
 - [Software development](#software-development)
 
 ### More technical
 
 - [Vim](#vim)
+- [LaTeX](#latex)
+- [SSH](#ssh)
 - [Tmux](#tmux)
 - [IRC](#irc)
 - [Blockchain](#blockchain)
@@ -73,31 +76,65 @@ A healthy mentality makes everything easier. Topics include learning to ask effe
 
 At a high level, a [shell](https://en.wikipedia.org/wiki/Shell_(computing)) is an interface facilitating interaction with an operating system. The shell most developers are familiar with is the [Unix shell](https://en.wikipedia.org/wiki/Unix_shell), which provides a [command line interface](https://en.wikipedia.org/wiki/Command-line_interface). Finally, [bash](https://en.wikipedia.org/wiki/Bash_(Unix_shell)) is a mature, popular [shell language](https://en.wikipedia.org/wiki/Command_language).
 
+#### Intro
+
 - [Intro video 1](https://www.youtube.com/watch?v=x73WTEltyHU)
 - [Intro video 2](https://www.youtube.com/watch?v=q7-aEspwwEI)
 - [Basic commands](http://www.tldp.org/LDP/abs/html/basic.html)
 - [Interactive tutorial](https://www.codecademy.com/learn/learn-the-command-line)
-- [How to add to your PATH](https://unix.stackexchange.com/questions/26047/how-to-correctly-add-a-path-to-path)
+
+#### Reference
+
 - [Reference manual](http://www.faqs.org/docs/bashman/bashref.html#SEC_Top)
 - [Overview](http://linuxcommand.org/learning_the_shell.php)
 - [Cheatsheet](https://learnxinyminutes.com/docs/bash/)
+
+#### Specific topics
+
+- [What is a dotfile](https://askubuntu.com/questions/94780/what-are-dot-files)
+- [What is an rc file](http://stackoverflow.com/questions/11030552/what-does-rc-mean-in-dot-files)
+- [What is a PATH](http://www.linfo.org/path_env_var.html)
+- [How to add to your PATH](https://unix.stackexchange.com/questions/26047/how-to-correctly-add-a-path-to-path)
+- [What is a .bashrc](https://unix.stackexchange.com/questions/129143/what-is-the-purpose-of-bashrc-and-how-does-it-work)
+- [Difference between .bashrc and .bash_profile on Macs](https://apple.stackexchange.com/questions/51036/what-is-the-difference-between-bash-profile-and-bashrc)
 - [Difference between shell, terminal, console](https://superuser.com/questions/144666/what-is-the-difference-between-shell-console-and-terminal)
-- [Cmder, a bash-style shell for windows](http://cmder.net)
-- [Tldr, the better version of man pages](http://tldr-pages.github.io)
+
+#### Favorite programs
+
+- [tldr, the better version of man pages](http://tldr-pages.github.io)
+- [ag, a fast and powerful replacement for grep](https://github.com/ggreer/the_silver_searcher)
+- [rsync, for securely copying a file between devices](https://linux.die.net/man/1/rsync)
+- [htop, the interactive process viewer](http://hisham.hm/htop/)
+
+#### Resources
+
+- [Mathias's dotfiles, a collection of quality dotfiles](https://github.com/mathiasbynens/dotfiles)
 - [Dotbot, a dotfile manager](https://github.com/anishathalye/dotbot/)
+- [Cmder, a bash-style shell for windows](http://cmder.net)
+- [Dev-setup, a tool and listing of common installations](https://github.com/donnemartin/dev-setup)
 
 ### Git
 
 [Git](https://git-scm.com) is a [distributed](https://en.wikipedia.org/wiki/Distributed_computing) [version control](https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control) system. Version control allows multiple people to work on the same code base at the same time, among other benefits. Git is [wildly popular](https://insights.stackoverflow.com/survey/2017#work-version-control), powerful, and somewhat notorious for being [difficult to learn](https://www.quora.com/Why-is-Git-so-hard-to-learn).
+
+#### Intro
 
 - Install: `brew install git`
 - [Conceptual intro](https://backlogtool.com/git-guide/en/intro/intro1_1.html)
 - [Intro to version control](http://web.mit.edu/6.005/www/fa16/classes/05-version-control/)
 - [Functional intro](http://rogerdudler.github.io/git-guide/)
 - [Interactive tutorial](https://try.github.io/)
+
+#### Reference
+
 - [Cheatsheet](https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf)
 - [Documentation](https://git-scm.com/documentation)
+- [GitHub Guides, a collection of informational GitHub videos](https://guides.github.com)
+
+#### Specific topics
+
 - [Git is not GitHub](http://stackoverflow.com/questions/13321556/difference-between-git-and-github)
+- [Intro to GitHub](https://guides.github.com/activities/hello-world/)
 - [Effective commit messages](http://chris.beams.io/posts/git-commit/)
 - [Version control in a team](http://web.mit.edu/6.005/www/fa16/classes/27-team-version-control/)
 - [GitHub Flow, a popular git workflow](https://guides.github.com/introduction/flow/)
@@ -109,6 +146,7 @@ At a high level, a [shell](https://en.wikipedia.org/wiki/Shell_(computing)) is a
 - Install: `brew install python3`
 - [Google's official Python tutorial](https://developers.google.com/edu/python/)
 - [Official tutorial](https://docs.python.org/3/tutorial/index.html)
+- [Awesome, curated guide to everything Python](http://python-guide-pt-br.readthedocs.io/en/latest/)
 - [Intro to programming class](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00-introduction-to-computer-science-and-programming-fall-2008/)
 
 ### Debugging
@@ -154,7 +192,7 @@ Design, development, research, and everything in between rely on effective commu
 - [Dash, an on-command documentation reader for Macs](https://kapeli.com/dash)
 - [Sample real-world apps in various stacks](https://github.com/gothinkster/realworld)
 - [Disable browser caching](http://stackoverflow.com/questions/5690269/disabling-chrome-cache-for-website-development)
-- [Internet vs World Wide Web](https://www.youtube.com/watch?v=laepk9KrAZY)
+- [Internet vs. World Wide Web](https://www.youtube.com/watch?v=laepk9KrAZY)
 - [HTTP and HTTPS](https://www.youtube.com/watch?v=po3zYOe00O4)
 - [APIs](https://www.youtube.com/watch?v=7YcW25PHnAA)
 - [REST APIs](https://www.youtube.com/watch?v=YCcAE2SCQ6k)
@@ -190,12 +228,35 @@ Design, development, research, and everything in between rely on effective commu
 
 [Node.js](https://en.wikipedia.org/wiki/Node.js) is a [cross-platform](https://en.wikipedia.org/wiki/Cross-platform) JavaScript [run-time environment](https://en.wikipedia.org/wiki/Runtime_system). In other words, while JavaScript was traditionally limited to the client-side browser, Node.js provides an environment allowing execution of JavaScript code on the [server-side](https://en.wikipedia.org/wiki/Server-side). [Npm](https://en.wikipedia.org/wiki/Npm_(software)) is the default [package manager](https://en.wikipedia.org/wiki/Package_manager) for Node.js.
 
+#### Resources
+
 - Install: `brew install node`
 - [Intro video](https://www.youtube.com/watch?v=pU9Q6oiQNd0)
 - [Overview](https://github.com/maxogden/art-of-node#the-art-of-node)
 - [Npm, the Node Package Manager](https://docs.npmjs.com/getting-started/what-is-npm)
 - [Interactive tutorial](https://github.com/workshopper/learnyounode#learn-you-the-nodejs-for-much-win)
 - [In-depth tutorial](https://www.tutorialspoint.com/nodejs/nodejs_introduction.htm)
+- [Express, the de facto facto Node.js web framework](https://expressjs.com)
+
+#### Favorite packages
+
+- [diff-so-fancy, for easier to read Git diffs](https://www.npmjs.com/package/diff-so-fancy)
+- [nodemon, for restarting programs upon code changes](https://www.npmjs.com/package/nodemon)
+- [husky, a git hook manager](https://www.npmjs.com/package/husky)
+- [lodash, a set of JavaScript utilities](https://www.npmjs.com/package/lodash)
+- [gulp, the streaming build system](https://www.npmjs.com/package/gulp)
+- [cat-me, because cats make life better](https://www.npmjs.com/package/cat-me)
+
+### Markdown
+
+[Markdown](https://en.wikipedia.org/wiki/Markdown) is a [markup language](https://en.wikipedia.org/wiki/Lightweight_markup_language) designed to easy to learn and fast to write. It can be converted directly to HTML, and is also a common choice for README files. Its formal specification is a bit loose, so many similar syntax flavors exist.
+
+- [Intro video](https://www.youtube.com/watch?v=6A5EpqqDOdk)
+- [Markdown for GitHub](https://guides.github.com/features/mastering-markdown/)
+- [Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+- [Original syntax specification](http://daringfireball.net/projects/markdown/syntax)
+- [Pandoc, for converting files between markup formats](http://pandoc.org)
+- [vmd, the GitHub-flavored markdown renderer](https://www.npmjs.com/package/vmd)
 
 ### Profiling
 
@@ -235,6 +296,27 @@ Design, development, research, and everything in between rely on effective commu
 - [Vimrc with more features](https://github.com/amix/vimrc)
 - [Intermediate topics](https://www.cs.oberlin.edu/~kuperman/help/vim/home.html)
 - [Screencasts on various topics](http://vimcasts.org/categories/)
+
+### LaTeX
+
+[LaTeX](https://en.wikipedia.org/wiki/LaTeX) is a document preparation system. It's especially popular in academia, and is used in many STEM-related fields. It allows users to focus on a document's contents and let LaTeX focus on the document's preparation and formatting.
+
+- [Intro video](https://www.youtube.com/watch?v=SoDv0qhyysQ)
+- [Hub for tutorials, tools, references](https://www.latex-project.org)
+- [Extensive guide](https://en.wikibooks.org/wiki/LaTeX)
+- [Latexmk, a program for compiling LaTeX files locally](http://mg.readthedocs.io/latexmk.html)
+- [Detexify, a tool for finding LaTeX symbols](http://detexify.kirelabs.org/classify.html)
+- [Overleaf, an online tool for collaborative LaTeX writing](https://www.overleaf.com)
+- [BibTeX, a bibliography management system](https://www.sharelatex.com/learn/Bibliography_management_with_bibtex)
+
+### SSH
+
+[SSH](https://en.wikipedia.org/wiki/Secure_Shell) is a protocol for operating remote devices from your local device, in a secure manner. SSH allows login and command execution over the Internet, even on devices not physically accessible.
+
+- [Intro video](https://www.youtube.com/watch?v=DbPDraCYju8)
+- [How SSH works](https://www.youtube.com/watch?v=zlv9dI-9g1U)
+- [Reference](http://linuxcommand.org/man_pages/ssh1.html)
+- [GitHub and SSH](https://help.github.com/articles/connecting-to-github-with-ssh/)
 
 ### Tmux
 
