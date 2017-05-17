@@ -292,6 +292,10 @@ Miscellaneous resources. Topics include technical discussions, how to use macros
 
 - Fork, make changes, submit pull request
 
+### License
+
+- [MIT License](https://opensource.org/licenses/MIT)
+
 ### Authors
 
 - Compiled by [Hunter Gatewood](http://hcgatewood.me/about/)
