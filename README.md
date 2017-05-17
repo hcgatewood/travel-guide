@@ -46,6 +46,7 @@ This guide assumes you're on a Mac, but is valuable on any machine. See the [bac
 A healthy mentality makes everything easier. Topics include learning to ask effective questions as well as taking a growth-based approach to learning.
 
 - [Take a growth mindset](https://medium.freecodecamp.com/this-picture-will-change-the-way-you-learn-to-code-557ac1e109bd)
+- [Why learning to code is so damn hard](https://www.vikingcodeschool.com/posts/why-learning-to-code-is-so-damn-hard)
 - [Great advice for new CS students](https://www.quora.com/What-advice-would-you-give-to-a-Computer-Science-major-student-that-you-wish-you-were-given-when-you-started-Computer-Science)
 - [How to ask programming questions](https://www.propublica.org/nerds/item/how-to-ask-programming-questions)
 - [How to find answers from Stack Overflow](https://meta.stackexchange.com/questions/5180/what-are-some-good-tips-for-searching-stack-overflow)
@@ -367,6 +368,7 @@ Miscellaneous resources. Topics include technical discussions, how to use macros
 ### Using this guide
 
 - Go in order, more or less.
+- Do not skip the [getting started](#getting-started) section!
 - Snippets like `bash --version` are meant to be run from the command line.
 - Be sure to install [Homebrew](http://brew.sh) and [Homebrew Cask](https://caskroom.github.io).
 - [MIT OCW](https://ocw.mit.edu/index.htm) also hosts all their [lectures on YouTube](https://www.youtube.com/user/MIT), where you can watch at up to 2x speed.
