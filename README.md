@@ -282,10 +282,10 @@ Miscellaneous resources. Topics include technical discussions, how to use macros
 
 ### Using this guide
 
-- Go in order, more or less
-- Snippets like `bash --version` are meant to be run from the command line
-- Be sure to install [Homebrew](http://brew.sh) and [Homebrew Cask](https://caskroom.github.io)
-- All [MIT OCW](https://ocw.mit.edu/index.htm) courses also host their [videos on YouTube](https://www.youtube.com/user/MIT), where you can watch at up to 2x speed
+- Go in order, more or less.
+- Snippets like `bash --version` are meant to be run from the command line.
+- Be sure to install [Homebrew](http://brew.sh) and [Homebrew Cask](https://caskroom.github.io).
+- [MIT OCW](https://ocw.mit.edu/index.htm) also hosts all their [lectures on YouTube](https://www.youtube.com/user/MIT), where you can watch at up to 2x speed.
 - These topics and resources are a subjective view of what has been helpful. Feel free to contribute!
 
 ### Contributing
