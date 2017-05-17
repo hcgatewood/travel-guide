@@ -1,8 +1,8 @@
 # The New Programmer's Travel Guide
 
-A minimal, curated guide to relevant resources for the new computer science student.
+A curated guide to relevant resources for the new computer science student.
 
-This guide assumes you're on a Mac, but is valuable on any machine. See the [back flap notes](#using-this-guide) for an overview of this guide.
+Learning to program is hard. Finding your way to first-rate resources, however, just got a whole lot easier. See the [back flap notes](#using-this-guide) for an intro. This guide assumes you're on a Mac, but is valuable on any machine.
 
 ## 🗺️ Front flap topic map
 
@@ -373,6 +373,10 @@ Miscellaneous resources. Topics include technical discussions, how to use macros
 - Be sure to install [Homebrew](http://brew.sh) and [Homebrew Cask](https://caskroom.github.io).
 - [MIT OCW](https://ocw.mit.edu/index.htm) also hosts all their [lectures on YouTube](https://www.youtube.com/user/MIT), where you can watch at up to 2x speed.
 - These topics and resources are a subjective view of what has been helpful. Feel free to contribute!
+
+### Why a travel guide
+
+Learning to build software is hard. And not knowing what to learn, when, and from where makes it harder. That's where the travel guide comes in: a specific listing of what to learn, in an ordering that makes sense, paired with specific, curated resources. This isn't a resource dump—it's a travel guide.
 
 ### Contributing
 
