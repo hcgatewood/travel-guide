@@ -25,6 +25,7 @@ Learning to program is hard. Finding your way to first-rate resources, however, 
 - [JavaScript](#javascript)
 - [Node.js](#nodejs)
 - [Markdown](#markdown)
+- [Unicode](#unicode)
 - [Profiling](#profiling)
 - [Software development](#software-development)
 
@@ -258,6 +259,16 @@ Design, development, research, and everything in between rely on effective commu
 - [Original syntax specification](http://daringfireball.net/projects/markdown/syntax)
 - [Pandoc, for converting files between markup formats](http://pandoc.org)
 - [vmd, the GitHub-flavored markdown renderer](https://www.npmjs.com/package/vmd)
+
+### Unicode
+
+[Unicode](https://en.wikipedia.org/wiki/Unicode) is a worldwide standard for encoding and representing text. It makes things like [internationalization and localization](https://en.wikipedia.org/wiki/Internationalization_and_localization) a lot easier. Unicode can be actually implemented by a number of different [character encodings](https://en.wikipedia.org/wiki/Character_encoding), the current most popular of which is [UTF-8](https://en.wikipedia.org/wiki/UTF-8).
+
+- [Intro video](https://www.youtube.com/watch?v=sqPTR_v4qFA)
+- [Overview and further info](http://reedbeta.com/blog/programmers-intro-to-unicode/)
+- [Historical perspective](https://www.youtube.com/watch?v=MijmeoH9LT4)
+- [Official intro](http://unicode.org/standard/principles.html)
+- [UTF-8 is not the same thing as Unicode](http://stackoverflow.com/questions/643694/utf-8-vs-unicode)
 
 ### Profiling
 
