@@ -77,6 +77,7 @@ At a high level, a [shell](https://en.wikipedia.org/wiki/Shell_(computing)) is a
 - [Intro video 2](https://www.youtube.com/watch?v=q7-aEspwwEI)
 - [Basic commands](http://www.tldp.org/LDP/abs/html/basic.html)
 - [Interactive tutorial](https://www.codecademy.com/learn/learn-the-command-line)
+- [How to add to your PATH](https://unix.stackexchange.com/questions/26047/how-to-correctly-add-a-path-to-path)
 - [Reference manual](http://www.faqs.org/docs/bashman/bashref.html#SEC_Top)
 - [Overview](http://linuxcommand.org/learning_the_shell.php)
 - [Cheatsheet](https://learnxinyminutes.com/docs/bash/)
@@ -212,10 +213,10 @@ Design, development, research, and everything in between rely on effective commu
 
 ### Software development
 
-[Software development](https://en.wikipedia.org/wiki/Software_development) is the process of designing, constructing, testing, and releasing software. At scale, many inconsequential issues turn into colossal problems without proper software development techniques.
+[Software development](https://en.wikipedia.org/wiki/Software_development) is the process of designing, constructing, testing, and releasing software. At scale, many otherwise inconsequential issues turn into colossal problems without proper software development techniques.
 
 - [Intro to testing](http://web.mit.edu/6.005/www/fa16/classes/03-testing/)
-- [Difference between unit, integration, functional, acceptance tests](http://stackoverflow.com/questions/4904096/whats-the-difference-between-unit-functional-acceptance-and-integration-test)
+- [Difference between unit, integration, functional, and acceptance tests](http://stackoverflow.com/questions/4904096/whats-the-difference-between-unit-functional-acceptance-and-integration-test)
 - [Software construction class](http://web.mit.edu/6.005/www/fa16/)
 - [Long-term reading list](https://www.quora.com/What-are-the-must-read-books-for-software-engineers)
 
@@ -273,6 +274,7 @@ A [blockchain](https://en.wikipedia.org/wiki/Blockchain) is a continuously growi
 Miscellaneous resources. Topics include technical discussions, how to use macros in C, and a recommendation of Google Scholar for organizing technical papers.
 
 - [Google Scholar, a free scholarly literature browser](https://scholar.google.com)
+- [How file extensions work](https://askubuntu.com/questions/803434/do-file-extensions-have-any-purpose-for-the-operating-system)
 - [Floating point representations](http://www.toves.org/books/float/)
 - [Interpreted vs. compiled](http://stackoverflow.com/questions/3265357/compiled-vs-interpreted-languages)
 - [C macros](https://gcc.gnu.org/onlinedocs/cpp/Macros.html)
