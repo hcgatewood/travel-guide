@@ -32,6 +32,7 @@ Learning to program is hard. Finding your way to first-rate resources, however, 
 ### More technical
 
 - [Vim](#vim)
+- [C](#c)
 - [LaTeX](#latex)
 - [SSH](#ssh)
 - [Tmux](#tmux)
@@ -251,7 +252,7 @@ Design, development, research, and everything in between rely on effective commu
 
 ### Markdown
 
-[Markdown](https://en.wikipedia.org/wiki/Markdown) is a [markup language](https://en.wikipedia.org/wiki/Lightweight_markup_language) designed to easy to learn and fast to write. It can be converted directly to HTML, and is also a common choice for README files. Its formal specification is a bit loose, so many similar syntax flavors exist.
+[Markdown](https://en.wikipedia.org/wiki/Markdown) is a [markup language](https://en.wikipedia.org/wiki/Lightweight_markup_language) designed to be easy to learn and fast to write. It can be converted directly to HTML, and is also a common choice for README files. Its formal specification is a bit loose, so many similar syntax flavors exist.
 
 - [Intro video](https://www.youtube.com/watch?v=6A5EpqqDOdk)
 - [Markdown for GitHub](https://guides.github.com/features/mastering-markdown/)
@@ -308,6 +309,16 @@ Design, development, research, and everything in between rely on effective commu
 - [Vimrc with more features](https://github.com/amix/vimrc)
 - [Intermediate topics](https://www.cs.oberlin.edu/~kuperman/help/vim/home.html)
 - [Screencasts on various topics](http://vimcasts.org/categories/)
+
+### C
+
+[C](https://en.wikipedia.org/wiki/C_(programming_language)) is a general-purpose programming language with [static typing](https://en.wikipedia.org/wiki/Type_system#Static_type_checking). It was developed in the early 1970s and is historically [one of the most popular languages of all time](https://www.tiobe.com/tiobe-index//). It's a [medium-level language](https://en.wikipedia.org/wiki/High-level_programming_language) that maps efficiently to [machine code](https://en.wikipedia.org/wiki/Machine_code). C is considered more [difficult to learn](https://www.quora.com/How-easy-is-it-to-learn-C) than higher-level languages like Python and JavaScript, but [learning C is worth it](https://softwareengineering.stackexchange.com/questions/14744/i-dont-know-c-and-why-should-i-learn-it).
+
+- [Intro videos](https://www.youtube.com/playlist?list=PL2_aWCzGMAwLSqGsERZGXGkA5AfMhcknE)
+- [Tutorial](https://en.wikibooks.org/wiki/C_Programming)
+- [How macros work](https://gcc.gnu.org/onlinedocs/cpp/Macros.html)
+- [Reference book](https://www.amazon.com/Programming-Language-Brian-W-Kernighan/dp/0131103628)
+- [Class on how computers work](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-004-computation-structures-spring-2009/)
 
 ### LaTeX
 
@@ -371,7 +382,6 @@ Miscellaneous resources. Topics include technical discussions, how to use macros
 - [How file extensions work](https://askubuntu.com/questions/803434/do-file-extensions-have-any-purpose-for-the-operating-system)
 - [Floating point representations](http://www.toves.org/books/float/)
 - [Interpreted vs. compiled](http://stackoverflow.com/questions/3265357/compiled-vs-interpreted-languages)
-- [C macros](https://gcc.gnu.org/onlinedocs/cpp/Macros.html)
 - [Serverless architecture](https://martinfowler.com/articles/serverless.html)
 
 ## 🏕️ Back flap notes
