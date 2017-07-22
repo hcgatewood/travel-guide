@@ -173,6 +173,7 @@ Proper preparation makes getting a job much easier. Topics include best practice
 - [List of action verbs for descriptions](http://career.opcd.wfu.edu/files/2011/05/Action-Verbs-for-Resumes.pdf)
 - [General resume tips](https://www.quora.com/What-are-some-examples-of-a-computer-science-students-resume-that-received-an-internship-at-Google)
 - [Great site for technical interview practice](https://www.interviewcake.com)
+- [System design interview overview](https://github.com/checkcheckzz/system-design-interview)
 - [Big list of CS companies with an easy application process](https://github.com/j-delaney/easy-application)
 - [Intro to algorithms class](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/)
 
@@ -397,7 +398,7 @@ Miscellaneous resources. Topics include technical discussions, how to use macros
 
 ### Why a travel guide
 
-Learning to build software is hard. And not knowing what to learn, when, and from where makes it harder. That's where the travel guide comes in: a specific listing of what to learn, in an ordering that makes sense, paired with specific, curated resources. This isn't a resource dump—it's a travel guide.
+Learning to build software is hard. And not knowing what to learn, when, and from where makes it harder. Google searches return 1000's of results, but knowing which links to trust is unlear. That's where the travel guide comes in: a specific listing of what to learn, in an ordering that makes sense, paired with specific, curated resources. This isn't a resource dump—it's a travel guide.
 
 ### Contributing
 
