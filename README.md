@@ -149,7 +149,7 @@ At a high level, a [shell](https://en.wikipedia.org/wiki/Shell_(computing)) is a
 - Install: `brew install python3`
 - [Google's official Python tutorial](https://developers.google.com/edu/python/)
 - [Official tutorial](https://docs.python.org/3/tutorial/index.html)
-- [Awesome, curated guide to everything Python](http://python-guide-pt-br.readthedocs.io/en/latest/)
+- [Awesome, curated guide to everything Python](http://docs.python-guide.org/en/latest/)
 - [Intro to programming class](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00-introduction-to-computer-science-and-programming-fall-2008/)
 
 ### Debugging
