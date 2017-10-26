@@ -346,6 +346,7 @@ A [regular expression](https://en.wikipedia.org/wiki/Regular_expression) is a st
 
 - 🌟 [Interactive intro](https://regexone.com)
 - [Interactive practice](https://regexr.com)
+- [How-to in Python](https://docs.python.org/3/howto/regex.html)
 - [Reference](https://www.regular-expressions.info/refflavors.html)
 
 ### Serialization
