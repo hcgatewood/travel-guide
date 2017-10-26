@@ -2,7 +2,7 @@
 
 A curated guide to relevant resources for the new computer science student—it's everything else you'll need to know.
 
-Learning to program is hard. Finding your way to first-rate resources, however, just got a whole lot easier. See the [back flap notes](#using-this-guide) for an intro. This guide assumes you're on a Mac, but is valuable on any machine.
+Learning to program is hard. Finding your way to first-rate resources, however, just got a whole lot easier. See the [usage guide](#using-this-guide) for an intro. This guide assumes you're on a Mac, but is valuable on any machine.
 
 ## 🗺️ Topics
 
