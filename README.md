@@ -65,6 +65,7 @@ A healthy mentality makes everything easier. Topics include learning to ask effe
 ### Homebrew
 
 [Homebrew](https://en.wikipedia.org/wiki/Homebrew_(package_management_software)) is a popular [package manager](https://en.wikipedia.org/wiki/Package_manager) for the Mac operating system. It makes installing things as easy as `brew install <package>`. Similarly, Homebrew Cask facilitates installing GUI applications. Don't forget to run `brew doctor` after installing Homebrew and fix the reported issues.
+
 - [Intro video](https://www.youtube.com/watch?v=TyDqlbXRU5g)
 - [Install Homebrew](http://brew.sh)
 - [Install Homebrew Cask](https://caskroom.github.io)
