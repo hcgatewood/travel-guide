@@ -61,6 +61,7 @@ A healthy mentality makes everything easier. Topics include learning to ask effe
 - [Lots of good, short introductions with further resources](https://learnxinyminutes.com)
 - [Huge list of resources on many topics](https://github.com/sindresorhus/awesome)
 - 🌟 [Self-taught online CS classes](https://github.com/ossu/computer-science)
+- 🌟 [Map of computer science](https://www.youtube.com/watch?v=SzJ46YA_RaA)
 
 ### Homebrew
 
