@@ -50,6 +50,9 @@ Learning to program is hard. Finding your way to first-rate resources, however, 
 
 A healthy mentality makes everything easier. Topics include learning to ask effective questions as well as taking a growth-based approach to learning.
 
+#### How to learn
+
+- 🌟 [Overview of computer science](https://www.youtube.com/watch?v=SzJ46YA_RaA)
 - 🌟 [How to learn how to code](https://medium.freecodecamp.com/this-picture-will-change-the-way-you-learn-to-code-557ac1e109bd)
 - 🌟 [Make deliberate practice a habit](http://www.makeuseof.com/tag/want-become-expert-something-try-deliberate-practice/)
 - [Why learning to code is so damn hard](https://www.vikingcodeschool.com/posts/why-learning-to-code-is-so-damn-hard)
@@ -58,11 +61,14 @@ A healthy mentality makes everything easier. Topics include learning to ask effe
 - [How to find answers from Stack Overflow](https://meta.stackexchange.com/questions/5180/what-are-some-good-tips-for-searching-stack-overflow)
 - [Rubber duck problem solving](http://blog.codinghorror.com/rubber-duck-problem-solving/)
 - [Thoughts on dealing with failure](http://hcgatewood.me/014-failure/)
-- [Lots of good, short introductions with further resources](https://learnxinyminutes.com)
-- [Huge list of resources on many topics](https://github.com/sindresorhus/awesome)
 - [Commonly asked questions when first getting started](https://www.reddit.com/r/learnprogramming/wiki/faq#wiki_getting_started)
+
+#### Where to learn
+
+- [First stop for finding topic-organized resources](https://github.com/sindresorhus/awesome)
+- [Lots of good, short introductions to languages and tools](https://learnxinyminutes.com)
 - 🌟 [Self-taught online CS classes](https://github.com/ossu/computer-science)
-- 🌟 [Map of computer science](https://www.youtube.com/watch?v=SzJ46YA_RaA)
+- 🌟 [Build some of these projects as you're learning](https://github.com/tuvtran/project-based-learning#python)
 
 ### Homebrew
 
@@ -212,10 +218,18 @@ Design, development, research, and everything in between rely on effective commu
 
 [Web development](https://en.wikipedia.org/wiki/Web_development) refers to building some component of a [web site](https://en.wikipedia.org/wiki/Website) for the [World Wide Web](https://en.wikipedia.org/wiki/World_Wide_Web). It's a [hot occupation as of 2016](https://www.bls.gov/ooh/computer-and-information-technology/web-developers.htm).
 
+#### Getting started
+
 - [What is a web app](https://www.youtube.com/watch?v=RsQ1tFLwldY)
 - 🌟 [Web developer roadmap](https://github.com/kamranahmedse/developer-roadmap)
-- 🌟 [Dash, an on-command documentation reader for Macs](https://kapeli.com/dash)
+- 🌟 [Quality resources for the full stack web developer](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer)
 - 🌟 [Sample real-world apps in various stacks](https://github.com/gothinkster/realworld)
+- [Dash, an on-command documentation reader for Macs](https://kapeli.com/dash)
+- [Web development class](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-170-software-studio-spring-2013/)
+- [Computer systems class](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-033-computer-system-engineering-spring-2009/)
+
+#### Specific topics
+
 - [Disable browser caching](http://stackoverflow.com/questions/5690269/disabling-chrome-cache-for-website-development)
 - [Internet vs. World Wide Web](https://www.youtube.com/watch?v=laepk9KrAZY)
 - [HTTP and HTTPS](https://www.youtube.com/watch?v=po3zYOe00O4)
@@ -224,8 +238,6 @@ Design, development, research, and everything in between rely on effective commu
 - [TCP/IP](https://www.youtube.com/watch?v=PpsEaqJV_A0)
 - [IPv4 vs. IPv6](https://www.youtube.com/watch?v=aor29pGhlFE)
 - [NAT: Network Address Translation](https://www.youtube.com/watch?v=QBqPzHEDzvo)
-- [Web development class](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-170-software-studio-spring-2013/)
-- [Computer systems class](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-033-computer-system-engineering-spring-2009/)
 
 ### HTML/CSS
 
@@ -333,10 +345,9 @@ Design, development, research, and everything in between rely on effective commu
 
 - Install: `brew install vim`
 - Official tutorial: `vimtutor`
-- [Online tutorial](http://www.openvim.com)
 - [Cheatsheet](https://learnxinyminutes.com/docs/vim/)
+- 🌟 [Everything you need to know](https://github.com/mhinz/vim-galore)
 - [Sensible start to a vimrc](https://github.com/tpope/vim-sensible)
-- [Tips](http://vim.wikia.com/wiki/Category:Getting_started)
 - [Advice on settings](http://nvie.com/posts/how-i-boosted-my-vim/)
 - 🌟 [Advice on making a vimrc](http://dougblack.io/words/a-good-vimrc.html)
 - [Vimrc with more features](https://github.com/amix/vimrc)
@@ -345,9 +356,10 @@ Design, development, research, and everything in between rely on effective commu
 
 ### Regex
 
-A [regular expression](https://en.wikipedia.org/wiki/Regular_expression) is a string defining a search pattern. A regex functions as a declarative way to perform _find_ or _find and replace_ string operations. There are multiple flavors with often incompatible syntaxes. It's [pronounced like FedEx, with the "g" from "regular."](https://english.stackexchange.com/questions/94371/what-is-the-correct-pronunciation-of-regex)
+A [regular expression](https://en.wikipedia.org/wiki/Regular_expression) is a string defining a search pattern. A regex functions as a declarative way to perform _find_ or _find and replace_ string operations. There are multiple flavors with often incompatible syntaxes. It's usually [pronounced like FedEx, with the "g" from "regular."](https://english.stackexchange.com/questions/94371/what-is-the-correct-pronunciation-of-regex)
 
 - 🌟 [Interactive intro](https://regexone.com)
+- 🌟 [Intro videos](https://www.youtube.com/watch?v=7DG3kCDx53c&list=PLRqwX-V7Uu6YEypLuls7iidwHMdCM6o2w)
 - [Interactive practice](https://regexr.com)
 - [How-to in Python](https://docs.python.org/3/howto/regex.html)
 - [Reference](https://www.regular-expressions.info/refflavors.html)
