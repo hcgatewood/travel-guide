@@ -442,7 +442,7 @@ A [blockchain](https://en.wikipedia.org/wiki/Blockchain) is a continuously growi
 
 ### Miscellanea
 
-Miscellaneous resources. Topics include technical discussions, how to use macros in C, and a recommendation of Google Scholar for organizing technical papers.
+Miscellaneous resources. Topics include technical discussions, an artificial intelligence playbook, and a recommendation of Google Scholar for organizing technical papers.
 
 - [Google Scholar, a free scholarly literature browser](https://scholar.google.com)
 - [How file extensions work](https://askubuntu.com/questions/803434/do-file-extensions-have-any-purpose-for-the-operating-system)
