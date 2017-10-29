@@ -60,6 +60,7 @@ A healthy mentality makes everything easier. Topics include learning to ask effe
 - [Thoughts on dealing with failure](http://hcgatewood.me/014-failure/)
 - [Lots of good, short introductions with further resources](https://learnxinyminutes.com)
 - [Huge list of resources on many topics](https://github.com/sindresorhus/awesome)
+- [Commonly asked questions when first getting started](https://www.reddit.com/r/learnprogramming/wiki/faq#wiki_getting_started)
 - 🌟 [Self-taught online CS classes](https://github.com/ossu/computer-science)
 - 🌟 [Map of computer science](https://www.youtube.com/watch?v=SzJ46YA_RaA)
 
